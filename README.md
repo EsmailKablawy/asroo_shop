@@ -1,16 +1,24 @@
-# e_commercy_app
+Asrro Shop👕
 
-A new Flutter project.
+-Flutter App
 
-## Getting Started
+-"Asrro Shop " is My first project using the Dart language (flutter),
+it created by Getx State Management ,
 
-This project is a starting point for a Flutter application.
+the App Include
+{
+ ⊙ Authentication By FireBase(
+    Google SIgnUp,
+     Facebook SignUp , 
+     SIgnUp With Email,
+     LogIn by Email&Password,
+     Forget Password ,
+ ),
+ 
+⊙ Dark Mode&Light Mode
 
-A few resources to get you started if this is your first Flutter project:
+⊙ Language(Arabic-English-frensh)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+⊙ reset by Api
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+⊙add to cart fun() , add like fun()
