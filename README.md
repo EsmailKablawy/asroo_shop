@@ -22,3 +22,7 @@ the App Include
 ⊙ reset by Api
 
 ⊙add to cart fun() , add like fun()
+
+فيديو توضيحي ل الابب
+
+https://www.linkedin.com/posts/esmail-elkablawy-a75048265_asrro-shop-flutter-app-asrro-shop-activity-7103951818606411777-ZEaD?utm_source=share&utm_medium=member_android
